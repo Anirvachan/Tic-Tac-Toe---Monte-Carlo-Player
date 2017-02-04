@@ -1,4 +1,4 @@
-# Tic-Tac-Toe---Monte-Carlo-Player
+# Tic-Tac-Toe : Monte-Carlo-Player
 
 ## Monte Carlo AI player for Tic-Tac-Toe
 
